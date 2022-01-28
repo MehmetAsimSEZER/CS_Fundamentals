@@ -1,0 +1,11 @@
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\bin\Debug\Exeamples_functions.exe.config
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\bin\Debug\Exeamples_functions.exe
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\bin\Debug\Exeamples_functions.pdb
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\obj\Debug\Exeamples_functions.csproj.AssemblyReference.cache
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\obj\Debug\Exeamples_functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\obj\Debug\Exeamples_functions.Form1.resources
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\obj\Debug\Exeamples_functions.Properties.Resources.resources
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\obj\Debug\Exeamples_functions.csproj.GenerateResource.cache
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\obj\Debug\Exeamples_functions.csproj.CoreCompileInputs.cache
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\obj\Debug\Exeamples_functions.exe
+C:\Users\Sefer\source\repos\Exeamples_functions\Exeamples_functions\obj\Debug\Exeamples_functions.pdb

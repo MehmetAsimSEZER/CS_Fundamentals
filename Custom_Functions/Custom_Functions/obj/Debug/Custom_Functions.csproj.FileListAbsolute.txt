@@ -1,0 +1,33 @@
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csprojAssemblyReference.cache
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.Form1.resources
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.Properties.Resources.resources
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csproj.GenerateResource.cache
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csproj.CoreCompileInputs.cache
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.exe.config
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.exe
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.pdb
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.exe
+C:\Users\mertcan.uygun\source\repos\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.pdb
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.exe.config
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.exe
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.pdb
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csprojAssemblyReference.cache
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.Form1.resources
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.Properties.Resources.resources
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csproj.GenerateResource.cache
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csproj.CoreCompileInputs.cache
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.exe
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.pdb
+C:\Users\mertcan.uygun\Desktop\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.Form2.resources
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.exe.config
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.exe
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\bin\Debug\Custom_Functions.pdb
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csproj.AssemblyReference.cache
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.Form1.resources
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.Form2.resources
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.Properties.Resources.resources
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csproj.GenerateResource.cache
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.csproj.CoreCompileInputs.cache
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.exe
+C:\Users\Sefer\Downloads\wetransfer_custom_functions_2022-01-20_1121 2\Custom_Functions\Custom_Functions\obj\Debug\Custom_Functions.pdb

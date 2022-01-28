@@ -1,0 +1,11 @@
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\obj\Debug\Foreach_Examples.csproj.AssemblyReference.cache
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\obj\Debug\Foreach_Examples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\obj\Debug\Foreach_Examples.Form1.resources
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\obj\Debug\Foreach_Examples.Properties.Resources.resources
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\obj\Debug\Foreach_Examples.csproj.GenerateResource.cache
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\obj\Debug\Foreach_Examples.csproj.CoreCompileInputs.cache
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\bin\Debug\Foreach_Examples.exe.config
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\bin\Debug\Foreach_Examples.exe
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\bin\Debug\Foreach_Examples.pdb
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\obj\Debug\Foreach_Examples.exe
+C:\Users\Sefer\source\repos\YZL5155_Loops\Foreach_Examples\obj\Debug\Foreach_Examples.pdb

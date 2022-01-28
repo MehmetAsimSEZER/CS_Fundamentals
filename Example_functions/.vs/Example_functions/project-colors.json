@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d325c45-469e-40bb-8a22-c873e9fc361a": {
+      "ProjectGuid": "5d325c45-469e-40bb-8a22-c873e9fc361a",
+      "DisplayName": "Example_functions",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
